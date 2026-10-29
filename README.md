@@ -1,9 +1,9 @@
 # Homelab
 
-1. Cel projektu
+## 1. Cel projektu
 
 Stworzenie autonomicznego systemu monitorowania i zbierania danych o zużyciu energii elektrycznej z inteligentnego gniazdka (np. Shelly), zintegrowanego z relacyjną bazą danych oraz systemem wizualizacji czasu rzeczywistego.
-2. Architektura i Wykorzystane Technologie
+## 2. Architektura i Wykorzystane Technologie
 
  Warstwa aplikacyjna (Backend): Python (Flask, Requests, APScheduler) – odpowiedzialny za cykliczne odpytywanie urządzenia o parametry sieciowe i energetyczne.
 
@@ -13,7 +13,7 @@ Warstwa wizualizacji (Frontend/Dashboard): Grafana – interaktywne wykresy i pa
 
 Środowisko uruchomieniowe: Windows / VS Code / Wirtualne środowisko Python (venv).
 
-3. Główne Funkcjonalności
+## 3. Główne Funkcjonalności
 
     Automatyczny polling: Skrypt w Pythonie za pomocą harmonogramu (APScheduler) w regularnych odstępach czasu pobiera dane z API inteligentnego gniazdka.
 
@@ -21,6 +21,6 @@ Warstwa wizualizacji (Frontend/Dashboard): Grafana – interaktywne wykresy i pa
 
     Dashboard analityczny: Grafana łączy się z bazą danych i generuje czytelne wykresy słupkowe oraz liniowe pokazujące obciążenie sieci i historię zużycia energii.
 
-4. Podsumowanie i Wnioski
+## 4. Podsumowanie i Wnioski
 
 Projekt zakończył się sukcesem – z powodzeniem zintegrowano urządzenia IoT z lokalną infrastrukturalną bazą danych oraz stworzono przejrzysty system monitoringu. Całość została zamknięta w modułowej strukturze, co ułatwia ewentualną rozbudowę o kolejne gniazdka lub czujniki.
