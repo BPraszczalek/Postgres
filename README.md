@@ -15,11 +15,11 @@ Warstwa wizualizacji (Frontend/Dashboard): Grafana – interaktywne wykresy i pa
 
 ## 3. Główne Funkcjonalności
 
-    Automatyczny polling: Skrypt w Pythonie za pomocą harmonogramu (APScheduler) w regularnych odstępach czasu pobiera dane z API inteligentnego gniazdka.
+ Automatyczny polling: Skrypt w Pythonie za pomocą harmonogramu (APScheduler) w regularnych odstępach czasu pobiera dane z API inteligentnego gniazdka.
 
-    Persistencja danych: Odczytane parametry (napięcie, natężenie, moc, zużycie energii) są automatycznie mapowane i zapisywane w bazie PostgreSQL.
+Persistencja danych: Odczytane parametry (napięcie, natężenie, moc, zużycie energii) są automatycznie mapowane i zapisywane w bazie PostgreSQL.
 
-    Dashboard analityczny: Grafana łączy się z bazą danych i generuje czytelne wykresy słupkowe oraz liniowe pokazujące obciążenie sieci i historię zużycia energii.
+Dashboard analityczny: Grafana łączy się z bazą danych i generuje czytelne wykresy słupkowe oraz liniowe pokazujące obciążenie sieci i historię zużycia energii.
 
 ## 4. Podsumowanie i Wnioski
 
