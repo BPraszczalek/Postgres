@@ -1,8 +1,0 @@
-Może i nazwa trochę bez sensu ale chce plik w którym zostaną zapamiętane droga do tego aby doprowadzić projekt do stanu w jakim jest teraz
-  1. Pierwszą sugestię jaką dostałem to aby stworzyć bazę danych, która by zbierała dane z inteligentnego gniazdka i powienienem zacząć od tego ale postanowiłem że zacznę od inteligętnego termometru razem z higometrem
-  nie byłem i nie jestem zadowolny ze stanu w jakim ten akurat pomysł jest ale nie zostawię tego
-  2. Po fiasko z inteligętnym termometrem postanowiłem, oraz presja czasu trochę do mnie doszła więc wróciłem na orginalne tory i zamówiłem inteligętne gniazdko z którego już jestem zadowolny ale nie obeszło się bez
-  problemów
-  3. Pierwszym problemem było to że najprościej było przez aplikację ustawić gniazdko ale w aplikacji była opcja tylko do przesyłania mocy, co nie było idealne, bo jednak skoro mierzy natężenie, moc i napięcie to
-  by była szkoda żeby się zmarnowało
-  4. Więc było potrzebne inne rozwiązanie na szczęście twórcy pomyśleli o takim problemie i gniazdko przesyła pliki w formacie [format] które można pobrać rozszyfrować i wprowadzić do bazy
