@@ -1,6 +1,6 @@
 # --- Pliki z hasłami i poufnymi danymi ---
 .env
-config.py
+Homelab/config.py
 secrets.json
 
 # --- Środowisko wirtualne Pythona ---
