@@ -5,13 +5,13 @@
 Stworzenie autonomicznego systemu monitorowania i zbierania danych o zużyciu energii elektrycznej z inteligentnego gniazdka (np. Shelly), zintegrowanego z relacyjną bazą danych oraz systemem wizualizacji czasu rzeczywistego.
 2. Architektura i Wykorzystane Technologie
 
-    Warstwa aplikacyjna (Backend): Python (Flask, Requests, APScheduler) – odpowiedzialny za cykliczne odpytywanie urządzenia o parametry sieciowe i energetyczne.
+ Warstwa aplikacyjna (Backend): Python (Flask, Requests, APScheduler) – odpowiedzialny za cykliczne odpytywanie urządzenia o parametry sieciowe i energetyczne.
 
-    Warstwa składowania danych: PostgreSQL – bezpieczne, relacyjne repozytorium danych historycznych.
+Warstwa składowania danych: PostgreSQL – bezpieczne, relacyjne repozytorium danych historycznych.
 
-    Warstwa wizualizacji (Frontend/Dashboard): Grafana – interaktywne wykresy i panele analityczne prezentujące zużycie prądu w czasie.
+Warstwa wizualizacji (Frontend/Dashboard): Grafana – interaktywne wykresy i panele analityczne prezentujące zużycie prądu w czasie.
 
-    Środowisko uruchomieniowe: Windows / VS Code / Wirtualne środowisko Python (venv).
+Środowisko uruchomieniowe: Windows / VS Code / Wirtualne środowisko Python (venv).
 
 3. Główne Funkcjonalności
 
