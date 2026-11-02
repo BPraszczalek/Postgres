@@ -9,7 +9,6 @@ Nauka relacyjnego języka baz danych PostgresSQL oraz języka Python, poprzez st
 * Grafana - połączenie z bazą danych oraz jej wizualizacja 
 * AI - wykorzystywany jako asystent i pomoc
 * Shelly PLUG - inteligentne gniazdko z którego pobierane są dane
-* 
 ## 3. Główne Funkcjonalności.
 Pobieranie danych z inteligentnego gniazdka przy użyciu skryptu w Pythonie, za pomocą harmonogramu, który w regularnych odstępach czasu pobiera dane z gniazdka,
 które są zapisywane w bazie PostgreSQL, co pozwala na ich wizualizacje w Grafanie, która łączy się z bazą danych i tworzy czytelne wykresy
